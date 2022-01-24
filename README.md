@@ -1,7 +1,7 @@
 # Projects-with-company
 
 ## Wiseup Infotech LLP
-
+Developed prototypes for Sling Fight and Slicer with the help of the built-in AI and the physics engine. Learnt to use the assets by understanding it’s documentation.
 ### Sling Fight
 https://user-images.githubusercontent.com/85858695/149154086-2d3120e0-5d3c-429d-b7cc-c2235e8105dc.mp4
 

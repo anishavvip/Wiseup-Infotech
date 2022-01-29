@@ -3,9 +3,9 @@
   <img src="https://user-images.githubusercontent.com/85858695/151645539-13c1396a-4906-4818-a179-a5b4dc459a08.png" alt="Wiseup Infotech LLP"/>
 </p>
 
-<h1 align="center">Developed prototypes of Sling Fight and Slicer with the help of the built-in AI and the physics engine.<br> 
+<p align="center">Developed prototypes of Sling Fight and Slicer with the help of the built-in AI and the physics engine.<br> 
   Learnt to utilize the assets by comprehending its documentation.
-</h1>
+</p>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/85858695/151645586-f8b5367b-41e1-4e04-9296-aa047fbae179.png" alt="Sling Fight"/>
   <img src="https://user-images.githubusercontent.com/85858695/151645831-59e10861-6fba-4406-abec-32bba95b101e.gif" alt="Sling Fight"/>
